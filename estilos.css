@@ -1,0 +1,25 @@
+.fondoHistoria {
+    background-color: dodgerblue;
+}
+.fondoRivalidades {
+    background-color: yellow;
+}
+.fondoTitulos {
+    background-color: dodgerblue;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.head {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.cuerpo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.encabezado {
+    background-color: yellow;
+}
